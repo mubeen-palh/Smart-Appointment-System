@@ -1,8 +1,18 @@
 [
   {
     "ContainingType": "Smart_Appointment_System.Controllers.DoctorController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Doctor/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Smart_Appointment_System.Controllers.DoctorController",
     "Method": "Add",
-    "RelativePath": "api/Doctor",
+    "RelativePath": "api/Doctor/register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -16,13 +26,19 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Smart_Appointment_System.Controllers.DoctorController",
-    "Method": "GetAllAsync",
-    "RelativePath": "api/Doctor/getall",
-    "HttpMethod": "GET",
+    "ContainingType": "Smart_Appointment_System.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/doctor",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Smart_Appointment_System.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

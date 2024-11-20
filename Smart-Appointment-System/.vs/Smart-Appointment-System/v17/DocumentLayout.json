@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\authentication\\tokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\authentication\\tokengeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|solutionrelative:smart-appointment-system\\dtos\\doctorrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A9880A5-44C3-41FF-9B97-41CE7CFF9990}|Smart-Appointment-System\\Smart-Appointment-System.csproj|e:\\react\\smart appointment system\\smart-appointment-system\\smart-appointment-system\\smart-appointment-system\\entities\\smartappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,45 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DoctorRequestDTO.cs",
-              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
-              "RelativeDocumentMoniker": "Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
-              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
-              "RelativeToolTip": "Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T20:14:45.554Z",
+              "WhenOpened": "2024-11-20T19:19:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:13:02.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\Doctor.cs",
-              "RelativeDocumentMoniker": "Smart-Appointment-System\\Entities\\Doctor.cs",
-              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\Doctor.cs",
-              "RelativeToolTip": "Smart-Appointment-System\\Entities\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:57:24.586Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\appsettings.json",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\appsettings.json",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\appsettings.json",
+              "RelativeToolTip": "Smart-Appointment-System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T18:54:01.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Program.cs",
-              "RelativeDocumentMoniker": "Smart-Appointment-System\\Program.cs",
-              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Program.cs",
-              "RelativeToolTip": "Smart-Appointment-System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\Entities\\Doctor.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:20:53.367Z",
+              "WhenOpened": "2024-11-10T19:57:24.586Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +108,7 @@
               "RelativeDocumentMoniker": "Smart-Appointment-System\\Controllers\\DoctorController.cs",
               "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "Smart-Appointment-System\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T19:38:23.478Z",
               "EditorCaption": ""
@@ -87,12 +116,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Program.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\Program.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Program.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:20:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenGeneration.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Authentication\\TokenGeneration.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\Authentication\\TokenGeneration.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Authentication\\TokenGeneration.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\Authentication\\TokenGeneration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:59:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorRequestDTO.cs",
+              "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
+              "RelativeDocumentMoniker": "Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
+              "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
+              "RelativeToolTip": "Smart-Appointment-System\\DTOs\\DoctorRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:46:50.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SmartAppointmentContext.cs",
               "DocumentMoniker": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\SmartAppointmentContext.cs",
               "RelativeDocumentMoniker": "Smart-Appointment-System\\Entities\\SmartAppointmentContext.cs",
               "ToolTip": "E:\\React\\Smart Appointment System\\Smart-Appointment-System\\Smart-Appointment-System\\Smart-Appointment-System\\Entities\\SmartAppointmentContext.cs",
               "RelativeToolTip": "Smart-Appointment-System\\Entities\\SmartAppointmentContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T19:34:14.142Z",
               "EditorCaption": ""
