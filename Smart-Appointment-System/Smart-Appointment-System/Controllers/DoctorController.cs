@@ -55,6 +55,7 @@ namespace Smart_Appointment_System.Controllers
                     Password = hashedPassword, // Save the hashed password
                     FullName = doctorRequest.FullName,
                     Price = doctorRequest.Price,
+                    Category = doctorRequest.Category
                 };
 
                 _context.Doctors.Add(record);

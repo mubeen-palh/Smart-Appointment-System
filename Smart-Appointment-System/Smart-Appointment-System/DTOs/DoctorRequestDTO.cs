@@ -6,5 +6,6 @@
         public string Password { get; set; }
         public string FullName { get; set; }
         public int Price { get; set; }
+        public string Category { get; set; }
     }
 }
